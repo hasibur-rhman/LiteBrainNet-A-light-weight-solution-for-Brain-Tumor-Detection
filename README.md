@@ -212,13 +212,10 @@ If you use this work, please cite:
   title  = {NeuroScan: Lightweight Explainable Brain Tumor MRI Classification via Knowledge Distillation},
   author = {Hasib ur Rahman},
   year   = {2026},
-  url    = {https://github.com/imtiazdeepto/MRI-Brain-Tumor-Classifier}
+  url    = {https://github.com/hasibur-rhman/NeuroScan-Lightweight-Explainable-Brain-Tumor-MRI-Classifier}
 }
 ```
 
-## 📄 License
-
-Released under the [MIT License](LICENSE).
 
 ## 🔗 Links
 
